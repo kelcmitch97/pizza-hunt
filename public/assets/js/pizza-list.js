@@ -1,6 +1,3 @@
-// const { response } = require("express");
-// const { get } = require("express/lib/response");
-
 const $pizzaList = document.querySelector('#pizza-list');
 
 const getPizzaList = () => {
